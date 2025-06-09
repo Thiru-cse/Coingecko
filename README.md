@@ -22,3 +22,12 @@ A modern React.js + Vite-based web application that fetches real-time cryptocurr
 - **Styling**: Responsive, gradient background, modern fonts (Inter)
 
 ---
+
+## 🌐 Live Demo
+👉 [View Project]([https://your-crypto-tracker.vercel.app](https://coingecko-drab.vercel.app/))
+
+
+![React](https://img.shields.io/badge/React-18.2-blue?logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-3.x-38bdf8?logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-Fast⚡-646cff?logo=vite)
+
